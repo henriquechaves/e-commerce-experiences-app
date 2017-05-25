@@ -1,0 +1,13 @@
+.itemImage {
+  width: 75px;
+  height: 230px;
+  padding-top: 20px;
+}
+
+.myCard {
+  min-height: 450px;
+}
+
+.itemWrapper {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,27 @@
+.detailName {
+  color: #ec971f !important;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+.detailTagline {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.detailDescription {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.detailBackground {
+  background-color: white;
+  padding-bottom: 30px;
+  padding-top: 20px;
+}
+
+.detailImg {
+  width: 200px;
+  height: 460px;
+  padding-left: 100px;
+}
