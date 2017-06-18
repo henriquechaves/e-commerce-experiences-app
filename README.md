@@ -1,4 +1,4 @@
-# e-commerce-app
+# e-commerce-experiences-app
 
 e-commerce-app is a purchase app.
 
